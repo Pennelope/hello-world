@@ -88,3 +88,6 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 ## Everything you need to know about GitHub
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+
+Hola! Hi everybody
+I have a bachelor degree in IT but I'm a little rusted. Because I never worked in that field and never practice it so I loose it. I like to learn about code. I am from El Paso, Texas but I lived more than half of my life in Juarez, Mexico. 
